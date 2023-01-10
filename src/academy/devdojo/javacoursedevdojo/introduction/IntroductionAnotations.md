@@ -31,3 +31,29 @@ Choose and install one of *[Top 10 popular Java IDE](https://www.edureka.co/blog
 **JRE (Java Runtime Environment)** = The JRE is just for executing.
 
 We will compile the `.java` source file and turn it into a `.class` file. This `.class` we call byteCode that will be executed by the JVM. The JVM will interpret and worry about working with the OS.
+
+### Packages
+The package structure is a directory structure. Packages serve to organize and group project classes that have things in common.
+
+The convention for naming packages is:
+> your inverted website domain -> project name -> what you want to have in your package.
+
+**For example:** 
+`academy.devdojo.javacoursedevdojo.introduction`
+ 
+<sub>academy.devdojo = your inverted website domain
+javacoursedevdojo = project name
+introduction =  what you want to have in your package</sub>
+
+### Comments
+> Multiple lines
+/**/ 
+
+> Inline
+// 
+
+> Javadoc
+/* * /* 
+
+> Vs Code Shortcut 
+Ctrl + ;
