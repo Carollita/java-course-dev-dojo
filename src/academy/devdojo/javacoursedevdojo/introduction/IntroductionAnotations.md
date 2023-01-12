@@ -4,7 +4,7 @@
 >
     Class 00-07: Introduction to Java 
     Class 08-09: Packages, Comments and Output
-    Class 10-12: Primitive Data Types
+    Class 10-14: Primitive Data Types
     Operators
     Conditional operators
     Looping operators
@@ -57,3 +57,6 @@ introduction =  what you want to have in your package</sub>
 
 > Vs Code Shortcut 
 Ctrl + ;
+
+### Primitive Data Types
+![Data Types Table](http://3.bp.blogspot.com/-KmFAkdqT9zQ/VgK_r-KU8aI/AAAAAAAAIik/KbW2AghUtqE/s1600/Java+Tutorial+-+Java+Data+Types+%2528Table%2529.jpg)
