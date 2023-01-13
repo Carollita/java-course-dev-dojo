@@ -58,6 +58,13 @@ introduction =  what you want to have in your package</sub>
 > Vs Code Shortcut 
 Ctrl + ;
 
+### Usefull Shortcuts
+> sout
+    `System.out.println();`
+
+> psvm
+    `public static void main(String[] args) {}`
+
 ### Primitive Data Types
 ![Data Types Table](http://3.bp.blogspot.com/-KmFAkdqT9zQ/VgK_r-KU8aI/AAAAAAAAIik/KbW2AghUtqE/s1600/Java+Tutorial+-+Java+Data+Types+%2528Table%2529.jpg)
 
