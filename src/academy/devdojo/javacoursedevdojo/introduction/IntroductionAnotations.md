@@ -60,3 +60,38 @@ Ctrl + ;
 
 ### Primitive Data Types
 ![Data Types Table](http://3.bp.blogspot.com/-KmFAkdqT9zQ/VgK_r-KU8aI/AAAAAAAAIik/KbW2AghUtqE/s1600/Java+Tutorial+-+Java+Data+Types+%2528Table%2529.jpg)
+
+#### Casting
+Type casting is when you assign a value of one primitive data type to another type.
+
+- **Widening Casting:**
+Converting a smaller type to a larger type size. Is done automatically.
+`byte -> short -> char -> int -> long -> float -> double`
+</br>
+
+  ``` 
+  public class Main {
+    public static void main(String[] args) {
+        int myInt = 9;
+        double myDouble = myInt;
+        System.out.println(myInt);      // Outputs 9
+        System.out.println(myDouble);   // Outputs 9.0
+  }
+   ```
+
+- **Narrowing Casting:**
+Converting a larger type to a smaller size type. Is done manually by placing the type in parentheses in front of the value.
+`double -> float -> long -> int -> char -> short -> byte`
+</br>
+
+  ``` 
+    public class Main {
+        public static void main(String[] args) {
+            double myDouble = 9.78d;
+            int myInt = (int) myDouble;
+
+            System.out.println(myDouble);   // Outputs 9.78
+            System.out.println(myInt);      // Outputs 9
+    }
+    }
+   ```
