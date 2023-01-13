@@ -4,7 +4,7 @@
 >
     Class 00-07: Introduction to Java 
     Class 08-09: Packages, Comments and Output
-    Class 10-14: Primitive Data Types
+    Class 10-14: Primitive Data Type and Reference Type String
     Operators
     Conditional operators
     Looping operators
@@ -95,3 +95,6 @@ Converting a larger type to a smaller size type. Is done manually by placing the
     }
     }
    ```
+### Reference Type String
+
+String is a reference type and not a primitive type. String is a Class.
