@@ -108,3 +108,6 @@ String is a reference type and not a primitive type. String is a Class.
 
 ### Operators
 ![Operators](https://javagoal.com/wp-content/uploads/2019/10/21.png)
+
+### Conditional Statements
+![Conditional Statements](https://www.examtray.com/sites/default/files/2019-06/java-if-else-if-control-statements-syntax.jpg)
