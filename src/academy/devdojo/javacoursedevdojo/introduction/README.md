@@ -6,8 +6,8 @@
     Class 08-09: Packages, Comments and Output
     Class 10-14: Primitive Data Type and Reference Type String
     Class 15-19: Operators (Arithmetic, Relational, Logical, Assignment)
-    Conditional operators
-    Looping operators
+    Class 20:26: Conditional Statements
+    Class 27:31:Loop statements
     Arrays
     Multidimensional Arrays
     Packages
