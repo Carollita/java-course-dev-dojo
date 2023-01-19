@@ -8,10 +8,7 @@ Free Java Couse with 286 classes promoted by DevDojo.
 
 ### Topics
 - Introduction
->
-    Class 00-07: Introduction to Java 
-    Class 08-09: Packages, Comments and Output
-    Class 10-12: Primitive Data Types 
+> 
 
 - Intermediary
 >
