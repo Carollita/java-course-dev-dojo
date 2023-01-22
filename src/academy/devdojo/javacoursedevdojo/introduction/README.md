@@ -110,10 +110,21 @@ String is a reference type and not a primitive type. String is a Class.
 ![Operators](https://javagoal.com/wp-content/uploads/2019/10/21.png)
 
 ### Conditional Statements
+
+#### If, Else:
+![If, Else](https://www.kirupa.com/cdn-cgi/mirage/5b98c9bce50d51371353da0e31e357abd3025ffac26c90d1618f0ab762e089ed/1280/html5/images/if_else_200_v2.png)
+
+**Else if:** 
 ![Conditional Statements](https://www.examtray.com/sites/default/files/2019-06/java-if-else-if-control-statements-syntax.jpg)
 
-#### Ternary Operator
+**How it works:**
+![Switch](https://cdn.programiz.com/sites/tutorial2program/files/java-if-else-if-statement.png)
+
+#### Ternary Operator: 
 ![Conditional Statements](https://media.geeksforgeeks.org/wp-content/uploads/20191122171059/Conditional-or-Ternary-Operator-__-in-Java.jpg)
 
-#### Truth Tables
+**Truth Tables:**
 ![Truth Tables](https://content.codecademy.com/practice/art-for-practice/new-pngs/Boolean-operators-dk.png)
+
+#### Switch Case:
+![Switch](https://xperti.io/blogs/wp-content/uploads/2021/06/SwitchCaseStatement.png)
