@@ -128,3 +128,18 @@ String is a reference type and not a primitive type. String is a Class.
 
 #### Switch Case:
 ![Switch](https://xperti.io/blogs/wp-content/uploads/2021/06/SwitchCaseStatement.png)
+
+
+### Loop Statements
+
+#### For:
+![For](https://introcs.cs.princeton.edu/java/11cheatsheet/images/for.png)
+
+#### While and do-while:
+![While and do while](https://studyopedia.com/wp-content/uploads/2018/05/Difference-between-while-and-do-while-loop-in-Java.png)
+
+#### Break
+![Break](https://howtodoinjava.com/wp-content/uploads/2023/01/Java-break-keyword.svg)
+
+#### Continue
+![Continue](https://www.scientecheasy.com/wp-content/uploads/2021/05/java-continue-statement.png)
