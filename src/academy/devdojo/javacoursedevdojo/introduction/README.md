@@ -6,13 +6,10 @@
     Class 08-09: Packages, Comments and Output
     Class 10-14: Primitive Data Type and Reference Type String
     Class 15-19: Operators (Arithmetic, Relational, Logical, Assignment)
-    Class 20:26: Conditional Statements
-    Class 27:31:Loop statements
-    Arrays
-    Multidimensional Arrays
-    Packages
-    Classes
-    Methods
+    Class 20-26: Conditional Statements
+    Class 27-31:Loop statements (for, while, do-while)
+    Class 32-35:Arrays
+    Class 36-38: Multidimensional Arrays
 
 
 ### Install Java
@@ -64,6 +61,11 @@ Ctrl + ;
 
 > psvm
     `public static void main(String[] args) {}`
+
+### Variable
+Variables are containers for storing data values.
+![Variable](https://www.masterincoding.com/wp-content/uploads/2019/09/Variables_Java.png)
+![Variable Code](http://www.atnyla.com/library/images-tutorials/int-data-type-in-java-3a.PNG)
 
 ### Primitive Data Types
 ![Data Types Table](http://3.bp.blogspot.com/-KmFAkdqT9zQ/VgK_r-KU8aI/AAAAAAAAIik/KbW2AghUtqE/s1600/Java+Tutorial+-+Java+Data+Types+%2528Table%2529.jpg)
@@ -143,3 +145,19 @@ String is a reference type and not a primitive type. String is a Class.
 
 #### Continue
 ![Continue](https://www.scientecheasy.com/wp-content/uploads/2021/05/java-continue-statement.png)
+
+### Arrays
+
+Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.
+
+![Arrays and Variable.png](https://jenkov.com/images/java/java-arrays-1.png)
+
+![One Dimensional Array](https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2020/02/one-dimensional-array-in-java.jpg)
+
+An array is a container object that holds a fixed number of values of a single type. The length of an array is established when the array is created. After creation, its length is fixed.
+
+![Array Code](https://linuxhint.com/wp-content/uploads/2022/04/word-image-773.png)
+
+#### Java Data Type Default Initialization Values 
+![Data Type Default Initialization](https://www.baeldung.com/wp-content/uploads/2017/12/init1.png)
+
