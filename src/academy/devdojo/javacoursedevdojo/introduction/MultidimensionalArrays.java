@@ -22,9 +22,19 @@ public class MultidimensionalArrays {
         
         System.out.println("------------------------------");
 
+        // For
         for(int i=0; i < daysInMonth.length; i++) {
-            for(int j=0; j < daysInMonth[0].length; j++) {
+            for(int j=0; j < daysInMonth[i].length; j++) {
                 System.out.println(daysInMonth[i][j]);
+            }
+        }
+
+        System.out.println("------------------------------");
+
+        // For Each
+        for(int[] arr : daysInMonth) {
+            for(int i : arr) {
+                System.out.println(i);
             }
         }
     }
