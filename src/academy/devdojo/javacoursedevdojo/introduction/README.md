@@ -7,8 +7,8 @@
     Class 10-14: Primitive Data Type and Reference Type String
     Class 15-19: Operators (Arithmetic, Relational, Logical, Assignment)
     Class 20-26: Conditional Statements
-    Class 27-31:Loop statements (for, while, do-while)
-    Class 32-35:Arrays
+    Class 27-31: Loop statements (for, while, do-while)
+    Class 32-35: Arrays
     Class 36-38: Multidimensional Arrays
 
 
@@ -161,3 +161,9 @@ An array is a container object that holds a fixed number of values of a single t
 #### Java Data Type Default Initialization Values 
 ![Data Type Default Initialization](https://www.baeldung.com/wp-content/uploads/2017/12/init1.png)
 
+### Multidimensional Arrays
+
+A multidimensional array is an array of arrays. Multidimensional arrays are useful when you want to store data as a tabular form, like a table with rows and columns.
+![Multidimensional Arrays](./assets/img/multidimensionalArrays.png)
+![](https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/01/Representation-of-a-jagged-array.png)
+![](http://www.trytoprogram.com/images/c-multidimensional-array.jpg)
