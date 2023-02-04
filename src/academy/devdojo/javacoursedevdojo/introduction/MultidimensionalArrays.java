@@ -37,5 +37,24 @@ public class MultidimensionalArrays {
                 System.out.println(i);
             }
         }
+
+        // Initialization
+        int[][] arrayInt = new int[3][];
+
+        arrayInt[0] = new int[2];
+        arrayInt[1] = new int[] {1, 2, 3};
+        arrayInt[2] = new int[6];
+
+        // int[][] arrayInt = { {0, 0, 0}, {1, 2, 3},{0, 0, 0, 0, 0, 0}};
+
+        for(int[] index:arrayInt) {
+            System.out.println("\n--------");
+            for(int num:index) {
+                System.out.print(num + " ");
+            }
+        }
     }
 }
+
+
+
