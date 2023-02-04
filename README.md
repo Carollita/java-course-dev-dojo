@@ -8,12 +8,20 @@ Free Java Course with 286 classes promoted by DevDojo.
 
 [English Course](https://www.youtube.com/playlist?list=PL0Un1HNdB4jGKw5szJrQETqJTlZKyKReu)
 
-### Topics:
-- Introduction
-> 
+### Topics
+- Introduction:
+>
+    Class 00-07: Introduction to Java 
+    Class 08-09: Packages, Comments and Output
+    Class 10-14: Primitive Data Type and Reference Type String
+    Class 15-19: Operators (Arithmetic, Relational, Logical, Assignment)
+    Class 20-26: Conditional Statements
+    Class 27-31: Loop statements (for, while, do-while)
+    Class 32-35: Arrays
+    Class 36-38: Multidimensional Arrays
 
-- Intermediary
+- Intermediary:
 >
 
-- Advanced
+- Advanced:
 >
