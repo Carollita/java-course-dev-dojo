@@ -3,7 +3,7 @@ package academy.devdojo.javacoursedevdojo.intermediary.introductiontoclasses.tes
 import academy.devdojo.javacoursedevdojo.intermediary.introductiontoclasses.model.Car;
 // import academy.devdojo.javacoursedevdojo.intermediary.introductiontoclasses.model.Pet;
 
-public class Cars {
+public class CarsTest {
     public static void main(String[] args) {
         Car car1 = new Car();
         Car car2 = new Car();
