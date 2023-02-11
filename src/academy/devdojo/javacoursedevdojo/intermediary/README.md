@@ -2,7 +2,8 @@
 
 ### Topics 
 ```
-Classes 39-: Introduction To Classes
+Classes 39-43: Introduction To Classes
+Classes 44-53: Methods
 ```
 
 ### [Class and object](https://www.javatpoint.com/object-and-class-in-java)
@@ -36,3 +37,12 @@ A class is a group of objects which have common properties. It is a template or 
 ![](https://dotnettutorials.net/wp-content/uploads/2020/08/Object-Oriented-Programming-in-Java.png)
 
 ![](https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2020/02/java-class-objects.jpg)
+
+
+### Methods
+
+In Java, a method is like a function which is used to expose the behavior of an object.
+
+![](https://miro.medium.com/max/810/1*xiYI_rl-_pX_27BAjxBL3g.png)
+![](http://www.beginwithjava.com/java/images/method-parts.png)
+![](https://media.geeksforgeeks.org/wp-content/uploads/methods-in-java.png)
