@@ -7,5 +7,6 @@ public class CalculatorTest {
         Calculator calculator = new Calculator();
         calculator.sumNumbers();
         calculator.subtractNumbers();
+        calculator.multiplyNumbers(1000, 7.5f);
     }
 }
