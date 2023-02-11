@@ -2,7 +2,7 @@ package academy.devdojo.javacoursedevdojo.intermediary.introductiontoclasses.tes
 
 import academy.devdojo.javacoursedevdojo.intermediary.introductiontoclasses.model.Person;
 
-public class PersonTest {
+public class PersonTest1 {
     public static void main(String[] args) {
         Person person = new Person();
         person.name = "Oreki";
