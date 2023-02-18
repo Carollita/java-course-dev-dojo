@@ -8,7 +8,12 @@ public class CalculatorTest {
         calculator.sumNumbers();
         calculator.subtractNumbers();
         calculator.multiplyNumbers(1000, 7.5f);
-        double result = calculator.divideNumbers(1000, 7);
+        System.out.println("---------------------");
+        double result = calculator.divideNumbers1(1000, 7);
         System.out.println(result);
+        calculator.divideNumbers2(86, 0);
+        System.out.println(calculator.divideNumbers3(86, 0));
+        System.out.println(calculator.divideNumbers4(86, 0));
     }
+
 }

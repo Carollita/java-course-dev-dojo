@@ -13,7 +13,29 @@ public class Calculator {
         System.out.println(num1 * num2);
     }
 
-    public double divideNumbers(double num1, double num2) {
+    public double divideNumbers1(double num1, double num2) {
         return 1000/7;
+    } 
+
+    public void divideNumbers2(double num1, double num2) {
+        if(num2 == 0){
+            System.out.println("It is not possible.");
+            return;
+        }
+        System.out.println(num1/num2);
+    } 
+
+    public double divideNumbers3(double num1, double num2) {
+        if(num2 == 0){
+            return 0;
+        }
+        return num1/num2;
+    } 
+
+    public double divideNumbers4(double num1, double num2) {
+        if(num2 != 0){
+            return num1/num2;
+        }
+        return 0;
     } 
 }
