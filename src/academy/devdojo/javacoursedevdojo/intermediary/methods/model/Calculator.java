@@ -38,4 +38,11 @@ public class Calculator {
         }
         return 0;
     } 
+
+    public void modifyNumbers(int num1, int num2) {
+        num1 = 19;
+        num2 = 2;
+        System.out.println("Day: " + num1);
+        System.out.println("Month: " + num2);
+    }
 }
