@@ -46,3 +46,13 @@ In Java, a method is like a function which is used to expose the behavior of an 
 ![](https://miro.medium.com/max/810/1*xiYI_rl-_pX_27BAjxBL3g.png)
 ![](http://www.beginwithjava.com/java/images/method-parts.png)
 ![](https://media.geeksforgeeks.org/wp-content/uploads/methods-in-java.png)
+
+### Reference type parameters
+
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpicodotdev.github.io%2Fblog-bitix%2F2021%2F01%2Fen-java-los-argumentos-se-pasan-por-valor-o-por-referencia%2F&psig=AOvVaw2PRZy5TgpWR0q5kvAIRLdc&ust=1678405098397000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKCK5K_Azf0CFQAAAAAdAAAAABAW)
+
+Pass-by-reference: When a method is called, the method arguments reference the same variable in memory as the caller.
+
+![](./img/reference.PNG) 
+
+Pass-by-value: When a method is called, the caller passes a copy of the argument variables to the method resulting in two values in memory
