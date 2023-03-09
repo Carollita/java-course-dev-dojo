@@ -6,5 +6,6 @@ public class PrintStudent {
         System.out.println(student.name);
         System.out.println(student.age);
         System.out.println(student.gender);
+        student.name = "Bakugou";
     }
 }

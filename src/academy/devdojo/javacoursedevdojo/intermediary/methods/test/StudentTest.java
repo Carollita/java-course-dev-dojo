@@ -19,5 +19,10 @@ public class StudentTest {
         PrintStudent printer = new PrintStudent();
         printer.print(student1);
         printer.print(student2);
+
+        System.out.println("##########################################");
+
+        printer.print(student1);
+        printer.print(student2);
     }
 }
