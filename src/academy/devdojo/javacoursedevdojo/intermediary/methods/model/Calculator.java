@@ -45,4 +45,29 @@ public class Calculator {
         System.out.println("Day: " + num1);
         System.out.println("Month: " + num2);
     }
+
+    public void sumArray(int[] numbers) {
+        int sum = 0;
+        for (int i : numbers) {
+            sum += i;
+        }
+        System.out.println(sum);
+    }
+
+    public void sumVarArgs1(int... numbers) {
+        int sum = 0;
+        for (int i : numbers) {
+            sum += i;
+        }
+        System.out.println(sum);
+    }
+
+    // Each method can only have one varargs parameter. The varargs argument must be the last parameter
+    public void sumVarArgs2(int num1, int... numbers) {
+        int sum = 0;
+        for (int i : numbers) {
+            sum += i;
+        }
+        System.out.println(sum);
+    }
 }

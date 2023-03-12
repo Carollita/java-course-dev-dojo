@@ -64,3 +64,11 @@ During code execution when an object calls the method. The keyword ‘this’ is
 ![](https://www.guru99.com/images/java/052016_0723_JavaTHISKey5.jpg)
 
 ![](https://www.guru99.com/images/java/052016_0723_JavaTHISKey7.jpg)
+
+### Varargs
+
+Varargs is a short name for variable arguments. 
+
+![](https://i0.wp.com/www.topjavatutorial.com/wp-content/uploads/2015/12/Java-Varargs.png)
+
+![](https://programmerbay.com/wp-content/uploads/2020/06/vararg-in-java.jpg)
