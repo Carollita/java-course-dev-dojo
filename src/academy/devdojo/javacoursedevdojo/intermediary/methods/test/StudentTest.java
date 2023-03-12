@@ -16,13 +16,23 @@ public class StudentTest {
         student2.age = 16;
         student2.gender = 'M';
 
+        System.out.println("##########################################");
+        System.out.println("PrintStudent Class method print1: ");
         PrintStudent printer = new PrintStudent();
-        printer.print(student1);
-        printer.print(student2);
+        printer.print1(student1);
+        printer.print1(student2);
 
         System.out.println("##########################################");
+        System.out.println("Define student.name: ");
 
-        printer.print(student1);
-        printer.print(student2);
+        printer.print1(student1);
+        printer.print1(student2);
+
+        System.out.println("##########################################");
+        System.out.println("Student Class method print2 using .this: ");
+
+        student1.print2();
+        student2.print2();
+        
     }
 }

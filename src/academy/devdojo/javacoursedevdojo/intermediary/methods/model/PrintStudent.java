@@ -1,7 +1,7 @@
 package academy.devdojo.javacoursedevdojo.intermediary.methods.model;
 
 public class PrintStudent {
-    public void print(Student student) {
+    public void print1(Student student) {
         System.out.println("------------------------------------------");
         System.out.println(student.name);
         System.out.println(student.age);

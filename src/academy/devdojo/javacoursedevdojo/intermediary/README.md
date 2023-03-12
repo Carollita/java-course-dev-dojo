@@ -56,3 +56,11 @@ Pass-by-reference: When a method is called, the method arguments reference the s
 ![](./img/reference.PNG) 
 
 Pass-by-value: When a method is called, the caller passes a copy of the argument variables to the method resulting in two values in memory
+
+### .[This](https://www.guru99.com/java-this-keyword.html)
+
+During code execution when an object calls the method. The keyword ‘this’ is replaced by the object handler “obj.
+
+![](https://www.guru99.com/images/java/052016_0723_JavaTHISKey5.jpg)
+
+![](https://www.guru99.com/images/java/052016_0723_JavaTHISKey7.jpg)
